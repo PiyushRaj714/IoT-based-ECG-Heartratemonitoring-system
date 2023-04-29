@@ -7,6 +7,12 @@ In this project, IoT Based ECG and Heart rate Monitoring, We will learn how to m
 
 Connect the OUTPUT to analog A0 of Nodemcu. Connect the LO+ & LO- to D5 & D6 of NodeMCU respectively. Supply the AD8232 kit with 3.3V VCC & Connect its GND to GND.
 
+COMPONENTS NAME	DESCRIPTION	QUANTITY	
+Nodemcu	ESP8266-12E Board	-1,	
+Connecting wires	-jumper wire	some,	
+Breadboard	Normal	1	,
+AD8232 ECG Sensor	-	1	,
+Data cable	5V Micro USB Data Cable	1.	
 
 It is recommended to snap the sensor pads on the leads before application to the body. The closer to the heart the pads are, the better the measurement. The cables are color coded to help identify proper placement.
 
